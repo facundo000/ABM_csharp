@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|c:\\users\\windows\\desktop\\final-pro-datos\\tup_pi_ef_f1\\tup_pi_ef_f1_listbox_nuevo_v1\\presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|solutionrelative:presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|c:\\users\\windows\\desktop\\final-pro-datos\\tup_pi_ef_f1\\tup_pi_ef_f1_listbox_nuevo_v1\\presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|solutionrelative:presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|c:\\users\\windows\\desktop\\final-pro-datos\\tup_pi_ef_f1\\tup_pi_ef_f1_listbox_nuevo_v1\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|c:\\users\\windows\\desktop\\final-pro-datos\\tup_pi_ef_f1\\tup_pi_ef_f1_listbox_nuevo_v1\\datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BF33A9-7683-4A3F-BCD5-399A54883BFF}|TUP_PI_EF_F1.csproj|solutionrelative:datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Presentacion\\FrmDetalle.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmDetalle.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Presentacion\\FrmDetalle.cs",
+              "RelativeToolTip": "Presentacion\\FrmDetalle.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAwwEQAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:28:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parametro.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Datos\\Parametro.cs",
+              "RelativeDocumentMoniker": "Datos\\Parametro.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Datos\\Parametro.cs",
+              "RelativeToolTip": "Datos\\Parametro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:25:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:15:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Presentacion\\FrmDetalle.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmDetalle.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_F1\\TUP_PI_EF_F1_ListBox_Nuevo_v1\\Presentacion\\FrmDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:37:08.449Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

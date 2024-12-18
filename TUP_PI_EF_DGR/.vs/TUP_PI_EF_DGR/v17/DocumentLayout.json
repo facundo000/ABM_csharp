@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|solutionrelative:inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|c:\\users\\martin\\downloads\\examenfinal26112024\\tup_pi_ef_dgr\\frminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|solutionrelative:frminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|c:\\users\\martin\\downloads\\examenfinal26112024\\tup_pi_ef_dgr\\frminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A57C8F9-7DD3-43D7-A2EA-5BA0E011EBAA}|TUP_PI_EF_DGR.csproj|solutionrelative:frminmuebles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inmueble.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\Inmueble.cs",
+              "RelativeDocumentMoniker": "Inmueble.cs",
+              "ToolTip": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\Inmueble.cs",
+              "RelativeToolTip": "Inmueble.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:44:46.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInmuebles.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\FrmInmuebles.cs",
+              "RelativeDocumentMoniker": "FrmInmuebles.cs",
+              "ToolTip": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\FrmInmuebles.cs",
+              "RelativeToolTip": "FrmInmuebles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:46:15.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmInmuebles.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\FrmInmuebles.cs",
+              "RelativeDocumentMoniker": "FrmInmuebles.cs",
+              "ToolTip": "C:\\Users\\Martin\\Downloads\\ExamenFinal26112024\\TUP_PI_EF_DGR\\FrmInmuebles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmInmuebles.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:46:11.53Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

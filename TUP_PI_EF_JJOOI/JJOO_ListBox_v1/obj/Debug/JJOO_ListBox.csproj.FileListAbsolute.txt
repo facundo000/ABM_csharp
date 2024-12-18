@@ -1,0 +1,10 @@
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.Properties.Resources.resources
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\bin\Debug\JJOO_ListBox.exe.config
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\bin\Debug\JJOO_ListBox.exe
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\bin\Debug\JJOO_ListBox.pdb
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.exe
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.pdb
+C:\Users\Windows\Desktop\final-pro-datos\TUP_PI_EF_JJOOI\JJOO_ListBox_v1\obj\Debug\JJOO_ListBox.FrmInmuebles.resources

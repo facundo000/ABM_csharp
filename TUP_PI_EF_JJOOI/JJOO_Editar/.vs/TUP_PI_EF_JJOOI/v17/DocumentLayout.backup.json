@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|c:\\users\\windows\\desktop\\final-pro-datos\\tup_pi_ef_jjooi\\jjoo_editar\\presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:presentacion\\frmdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\presentacion\\frmcompetidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:presentacion\\frmcompetidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\presentacion\\frmcompetidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:presentacion\\frmcompetidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\negocio\\competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:negocio\\competidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188435A1-F81B-428C-B8F1-9CD23938EB99}|TUP_PI_EF_JJOOI.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Competidor.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Negocio\\Competidor.cs",
+              "RelativeDocumentMoniker": "Negocio\\Competidor.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Negocio\\Competidor.cs",
+              "RelativeToolTip": "Negocio\\Competidor.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:34:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:48:04.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmDetalle.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmDetalle.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmDetalle.cs",
+              "RelativeToolTip": "Presentacion\\FrmDetalle.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:07:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmDetalle.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmDetalle.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:02:54.571Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCompetidor.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmCompetidor.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmCompetidor.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmCompetidor.cs",
+              "RelativeToolTip": "Presentacion\\FrmCompetidor.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAtwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:03:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCompetidor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmCompetidor.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmCompetidor.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\final-pro-datos\\TUP_PI_EF_JJOOI\\JJOO_Editar\\Presentacion\\FrmCompetidor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmCompetidor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:02:54.29Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
